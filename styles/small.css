@@ -18,6 +18,10 @@ header,footer{
     color: #fff;
     padding: 10px;
 }
+h1{
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+
+}
 #hero{
     display: flex;
     align-items: center;
@@ -54,6 +58,11 @@ div #home{
         width: auto;
         border-radius: 5px;
         z-index: 99;
+    }
+
+    .name{
+        font-size: 20px;    
+
     }
 
     nav ul {

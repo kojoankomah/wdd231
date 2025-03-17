@@ -1,0 +1,152 @@
+header, footer{
+    padding: 15px;
+    text-align: center;
+}
+header,footer{
+    background-color: #2b5c87;
+    color: #fff;
+    padding: 10px;
+}
+header{
+    display: grid;
+    grid-template-columns: 1fr  3fr;
+    gap: 2rem;
+}
+.home{
+    text-align: left;
+}
+.name{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.logo{
+    display: flex;
+}
+
+.logo img{
+    width: 120px;
+}
+
+.nav-section{
+    display: flex;
+    justify-content: center;
+    align-items: last baseline;
+    margin: 10px;
+}
+.nav-links a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    font-size: 20px;
+
+}
+
+.nav-links li{
+    display: inline;
+    margin: 0 15px;
+}
+
+.menu-toggle{
+    display: none;
+}
+main{
+    display: block;
+    margin: 0 auto;
+    width: 90%;
+    color: black;
+}
+.hero-section{
+    margin-top: 1rem;
+
+}
+.hero{
+    height: 200px;
+    border: 2px solid grey;
+
+}
+.main-section{
+    display: grid;
+    gap: 1rem;
+}
+.business-section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1rem;
+    border: 1px dashed pink;
+    margin-bottom: 1rem;
+
+
+}
+.business-section ul{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-size: 12px;
+    list-style: none;
+    margin-top: 10px;
+}
+.business{
+    border: 2px dashed yellow;
+    height: 180px;
+    display: grid;
+    background-color: rgb(228, 222, 222);
+    border-radius: 15px;
+}
+.business-name{
+    border-bottom: 1px solid grey;
+}
+.business-image-div{
+    display: grid;
+    grid-template-columns: 1fr 2.5fr;
+    gap: 2px;
+    margin: 5px;
+    border: 2px solid ;
+}
+.business img{
+    width: 100px;
+    height: auto;
+    border: 2px solid firebrick;
+}
+.first-section{
+    display: grid;
+    grid-template-columns: 1.7fr 1fr 1fr;
+    gap: 1rem;
+    border: 2px dashed red;
+}
+.events ul{
+    list-style-type: none;
+}
+
+.events{
+    border: 2px dashed blue;
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    background-color: rgb(228, 222, 222);
+}
+.event-container{
+    
+}
+.footer-content{
+    margin-bottom: 10px;
+}
+
+footer{
+    color: #fff;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 1fr 0.7fr 1fr;
+
+}
+
+#lastModified{
+    color: white;
+    background-color: #2b5c87;
+}
+.social-media img{
+    width: 40px;
+    margin: 0 5px;
+}

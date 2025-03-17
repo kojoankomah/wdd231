@@ -1,0 +1,65 @@
+[
+  {
+      "name": "Hotel Durango Express",
+      "address": "Insurgentes 18, Bermejillo, Durango",
+      "phone": "(871) 357-9784",
+      "website": "https://mybusiness1.com",
+      "image": "durango-min.jpg",
+      "membershipLevel": 3,
+      "description": "A great place to rest, with all what you need for your vacations"
+  },
+  {
+      "name": "Hotel Durango Inn",
+      "address": "Carr. Torreon - Jiménez 22, Bermejillo, Durango",
+      "phone": "(872) 106-3313",
+      "website": "https://mybusiness2.com",
+      "image": "durango-inn.jpg",
+      "membershipLevel": 2,
+      "description": "Good choice for trucks and people who are travel at night"
+  },
+  {
+      "name": "Hotel las Palmas",
+      "address": "S, Seguro Soc. SN, 35230 Bermejillo, Dgo.",
+      "phone": "(834) 131-0722",
+      "website": "https://mybusiness3.com",
+      "image": "palmas.jpg",
+      "membershipLevel": 2,
+      "description": "A good place to stay in big groups"
+  },
+  {
+      "name": "Hotel Bermejillo",
+      "address": "Ferrocarril 59, Bermejillo, Durango",
+      "phone": "(872) 776-0312",
+      "website": "https://mybusiness4.com",
+      "image": "hotel.jpg",
+      "membershipLevel": 1,
+      "description": "A small hotel, a nice place for a quick night."
+  },
+  {
+      "name": "Hotel Maribel",
+      "address": "Carr. Torreon - Jiménez 38, Bermejillo, Durango",
+      "phone": "(872) 109-3253",
+      "website": "https://mybusiness5.com",
+      "image": "maribel.jpg",
+      "membershipLevel": 1,
+      "description": "Economic proces and rooms, a small hotel"
+  },
+  {
+      "name": "Plaza las Palmas",
+      "address": "Mariano Escobedo, Bermejillo, Durango",
+      "phone": "800-555-5566",
+      "website": "https://mybusiness6.com",
+      "image": "plaza.jpg",
+      "membershipLevel": 3,
+      "description": "A small center of stores to find what you need"
+  },
+  {
+      "name": "Plaza Guadalupe",
+      "address": "Ferrocarril 7, Bermejillo, Durango",
+      "phone": "800-555-7788",
+      "website": "https://mybusiness7.com",
+      "image": "park.jpg",
+      "membershipLevel": 1,
+      "description": "A park to explore and asist to the event of the city."
+  }
+]

@@ -185,3 +185,7 @@ footer {
     background: #2c3e50;
     color: white;
 }
+.social-media img{
+    width: 40px;
+    margin: 0 5px;
+}

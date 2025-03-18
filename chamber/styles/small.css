@@ -131,7 +131,6 @@ ul{
     display: grid;
     grid-template-columns: 1fr;
     gap: 1rem;
-    border: 1px solid red;
 }
 
 .grid-view {

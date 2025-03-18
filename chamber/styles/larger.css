@@ -1,0 +1,43 @@
+/* Larger Screen Styles */
+@media screen and (min-width: 680px) {
+    /* Header */
+    header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 15px 50px;
+    }
+
+    /* Show navigation links as inline instead of dropdown */
+    .nav-section {
+        display: flex;
+    }
+
+    .nav-links {
+        display: flex !important;
+        flex-direction: row;
+        position: static;
+        background: none;
+        width: auto;
+    }
+
+    /* Hide hamburger button on large screens */
+    #hamburger-button {
+        display: none;
+    }
+
+    /* Adjust spacing */
+    .nav-links a {
+        padding: 10px 20px;
+    }
+    
+    .grid{
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    /* Footer */
+    footer {
+        display: flex;
+        justify-content: space-around;
+    }
+}

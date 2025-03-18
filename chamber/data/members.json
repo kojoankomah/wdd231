@@ -1,65 +1,94 @@
-[
-  {
-      "name": "Hotel Durango Express",
-      "address": "Insurgentes 18, Bermejillo, Durango",
-      "phone": "(871) 357-9784",
-      "website": "https://mybusiness1.com",
-      "image": "durango-min.jpg",
-      "membershipLevel": 3,
-      "description": "A great place to rest, with all what you need for your vacations"
-  },
-  {
-      "name": "Hotel Durango Inn",
-      "address": "Carr. Torreon - Jiménez 22, Bermejillo, Durango",
-      "phone": "(872) 106-3313",
-      "website": "https://mybusiness2.com",
-      "image": "durango-inn.jpg",
-      "membershipLevel": 2,
-      "description": "Good choice for trucks and people who are travel at night"
-  },
-  {
-      "name": "Hotel las Palmas",
-      "address": "S, Seguro Soc. SN, 35230 Bermejillo, Dgo.",
-      "phone": "(834) 131-0722",
-      "website": "https://mybusiness3.com",
-      "image": "palmas.jpg",
-      "membershipLevel": 2,
-      "description": "A good place to stay in big groups"
-  },
-  {
-      "name": "Hotel Bermejillo",
-      "address": "Ferrocarril 59, Bermejillo, Durango",
-      "phone": "(872) 776-0312",
-      "website": "https://mybusiness4.com",
-      "image": "hotel.jpg",
-      "membershipLevel": 1,
-      "description": "A small hotel, a nice place for a quick night."
-  },
-  {
-      "name": "Hotel Maribel",
-      "address": "Carr. Torreon - Jiménez 38, Bermejillo, Durango",
-      "phone": "(872) 109-3253",
-      "website": "https://mybusiness5.com",
-      "image": "maribel.jpg",
-      "membershipLevel": 1,
-      "description": "Economic proces and rooms, a small hotel"
-  },
-  {
-      "name": "Plaza las Palmas",
-      "address": "Mariano Escobedo, Bermejillo, Durango",
-      "phone": "800-555-5566",
-      "website": "https://mybusiness6.com",
-      "image": "plaza.jpg",
-      "membershipLevel": 3,
-      "description": "A small center of stores to find what you need"
-  },
-  {
-      "name": "Plaza Guadalupe",
-      "address": "Ferrocarril 7, Bermejillo, Durango",
-      "phone": "800-555-7788",
-      "website": "https://mybusiness7.com",
-      "image": "park.jpg",
-      "membershipLevel": 1,
-      "description": "A park to explore and asist to the event of the city."
-  }
-]
+{
+  "members": [
+    {
+      "name": "Cape Coast Tech Hub",
+      "address": "Plot 12, Tech Park, Cape Coast",
+      "phone": "(+233) 245-678-901",
+      "website": "https://capecoasttechhub.com",
+      "image": "images/astute.jpg",
+      "membership": 3,
+      "info": "Leading tech innovations in Cape Coast."
+    },
+    {
+      "name": "Central Agro Ventures",
+      "address": "Farm Lane, Cape Coast",
+      "phone": "(+233) 233-456-789",
+      "website": "https://centralagro.com",
+      "image": "images/benmarie.jpg",
+      "membership": 2,
+      "info": "Agriculture and processing experts."
+    },
+    {
+      "name": "Coastline Realty",
+      "address": "45 Beach Road, Cape Coast",
+      "phone": "(+233) 201-234-567",
+      "website": "https://coastlinerealty.com",
+      "image": "images/blusimba.jpg",
+      "membership": 1,
+      "info": "Trusted real estate firm."
+    },
+    {
+      "name": "Fisherman Supplies Co.",
+      "address": "Dockyard Street, Cape Coast",
+      "phone": "(+233) 247-891-234",
+      "website": "https://fishermansupplies.com",
+      "image": "images/epic.jpg",
+      "membership": 1,
+      "info": "Supplying fishing gear and boats."
+    },
+    {
+      "name": "Sunrise Hotel",
+      "address": "Sunset Avenue, Cape Coast",
+      "phone": "(+233) 209-876-543",
+      "website": "https://sunrisehotel.com",
+      "image": "images/fnet.jpg",
+      "membership": 3,
+      "info": "5-star hospitality experience."
+    },
+    {
+      "name": "Gulf Energy",
+      "address": "Oil Street, Cape Coast",
+      "phone": "(+233) 208-654-321",
+      "website": "https://gulfenergy.com",
+      "image": "images/hot-oven.jpg",
+      "membership": 2,
+      "info": "Clean and renewable energy."
+    },
+    {
+      "name": "Cape Innovations",
+      "address": "Innovation Drive, Cape Coast",
+      "phone": "(+233) 277-321-654",
+      "website": "https://capeinnovations.com",
+      "image": "images/jireh.png",
+      "membership": 1,
+      "info": "Creative solutions for businesses."
+    },
+    {
+      "name": "Gulf Energy",
+      "address": "Oil Street, Cape Coast",
+      "phone": "(+233) 208-654-321",
+      "website": "https://gulfenergy.com",
+      "image": "images/labor-power.jpg",
+      "membership": 2,
+      "info": "Clean and renewable energy."
+    },
+    {
+      "name": "Cape Innovations",
+      "address": "Innovation Drive, Cape Coast",
+      "phone": "(+233) 277-321-654",
+      "website": "https://capeinnovations.com",
+      "image": "images/malandi.jpg",
+      "membership": 1,
+      "info": "Creative solutions for businesses."
+    },
+    {
+      "name": "Gulf Energy",
+      "address": "Oil Street, Cape Coast",
+      "phone": "(+233) 208-654-321",
+      "website": "https://gulfenergy.com",
+      "image": "images/redlipsticks.jpg",
+      "membership": 2,
+      "info": "Clean and renewable energy."
+    }
+  ]
+}

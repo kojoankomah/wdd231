@@ -39,5 +39,16 @@
     footer {
         display: flex;
         justify-content: space-around;
+        max-height: 180px;
+
+    }
+    .footer-content,.info{
+        font-size: 15px;
+        margin: 0;
+        text-align: left;
+    }
+    footer div{
+        width: 350px;
+    
     }
 }

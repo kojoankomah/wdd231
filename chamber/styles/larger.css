@@ -41,14 +41,16 @@
         justify-content: space-around;
         align-items: flex-start;
         padding: 1rem;
+        min-height: 150px;
     }
-    footer .footer-content, footer .info, footer .social-media{
+    footer .footer-content, footer .info{
         font-size: 15px;
         min-height: 120px;
         height: auto;
         margin: 0;
         text-align: left;
-        flex: 1 1 1 300px
+        flex: 1 1 300px;
+        border: 2px dashed paleturquoise;
     }
 
     footer #lastModified, footer #currentyear {
@@ -57,8 +59,8 @@
         white-space: nowrap;
       }
 
-      footer .footer-content p:nth-child(2) {
+      /* footer .footer-content p:nth-child(2) {
     white-space: nowrap;
-}
+} */
       
 }

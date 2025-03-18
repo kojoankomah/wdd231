@@ -39,19 +39,26 @@
     footer {
         display: flex;
         justify-content: space-around;
-
+        align-items: flex-start;
+        padding: 1rem;
     }
-    footer .footer-content, footer .info{
+    footer .footer-content, footer .info, footer .social-media{
         font-size: 15px;
         min-height: 120px;
         height: auto;
         margin: 0;
         text-align: left;
+        flex: 1 1 1 300px
     }
 
     footer #lastModified, footer #currentyear {
         display: inline;
         min-width: 150px;
+        white-space: nowrap;
       }
+
+      footer .footer-content p:nth-child(2) {
+    white-space: nowrap;
+}
       
 }

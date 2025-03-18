@@ -43,7 +43,7 @@
         padding: 1rem;
         min-height: 150px;
         box-sizing: border-box;
-
+        margin-top: 2rem;
     }
     footer .footer-content, footer .info{
         font-size: 15px;

@@ -44,6 +44,8 @@
     }
     .footer-content,.info{
         font-size: 15px;
+        max-width: 1200px;
+        height: auto;
         margin: 0;
         text-align: left;
     }

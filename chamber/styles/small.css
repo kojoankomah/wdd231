@@ -24,7 +24,7 @@ header {
     font-size: 12px;
 }
 /* Logo */
-.logo img {
+#logo{
     width: 100px;
     height: auto;
 }
@@ -188,6 +188,7 @@ footer {
     padding: 15px;
     background: #2c3e50;
     color: white;
+    margin: 0;
 }
 .social-media img{
     width: 40px;

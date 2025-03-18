@@ -102,7 +102,7 @@ ul{
   }
   
   .view-section button {
-    background-color: #3498db;  /* Primary color */
+    background-color: #085283;  /* Primary color */
     color: #fff;
     border: none;
     padding: 0.75rem 1.5rem;
@@ -116,10 +116,14 @@ ul{
   .view-section button:hover {
     background-color: #2980b9; /* Darker blue on hover */
     transform: scale(1.05);
+    font-weight: bold;
+
   }
   
   .view-section button.active {
-    background-color: #2ecc71; /* Green for active */
+    background-color: #01ff6b; /* Green for active */
+    color: #031a29;
+    font-weight: bold;
   }
   
   .view-section button:focus {

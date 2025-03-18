@@ -51,7 +51,6 @@
         height: auto;
         margin: 0;
         text-align: left;
-        flex: 1 1 300px;
         border: 2px dashed paleturquoise;
 
     }
@@ -59,7 +58,6 @@
     footer #lastModified, footer #currentyear {
         display: inline;
         min-width: 120px;
-        white-space: nowrap;
       }
 
       /* footer .footer-content p:nth-child(2) {

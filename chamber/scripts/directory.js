@@ -42,14 +42,15 @@ function displayMembers(members) {
     const card = document.createElement('section');
     card.classList.add('member-card');
     card.innerHTML = `
-      <img src="${member.image}" alt="${member.name} logo">
-      <h3>${member.name}</h3>
-      <p><strong>Address:</strong> ${member.address}</p>
-      <p><strong>Phone:</strong> ${member.phone}</p>
-      <p><strong>Website:</strong> <a href="${member.website}" target="_blank">${member.website}</a></p>
-      <p><strong>Membership:</strong> ${getMembershipLevel(member.membership)}</p>
-      <p>${member.info}</p>
-    `;
+    <img src="${member.image}" alt="${member.name} logo" width="200" height="150" loading="lazy">
+    <h3>${member.name}</h3>
+    <p><strong>Address:</strong> ${member.address}</p>
+    <p><strong>Phone:</strong> ${member.phone}</p>
+    <p><strong>Website:</strong> <a href="${member.website}" target="_blank">${member.website}</a></p>
+    <p><strong>Membership:</strong> ${getMembershipLevel(member.membership)}</p>
+    <p>${member.info}</p>
+  `;
+  
     membersContainer.appendChild(card);
   });
 }

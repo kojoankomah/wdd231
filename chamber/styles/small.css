@@ -153,7 +153,7 @@ ul{
 }
 
 .list-view .member-card img{
-    max-width: 100px;
+    max-width: 120px;
     margin-right: 1rem;
 }
 .member-card {
@@ -167,7 +167,7 @@ ul{
 
 .member-card img {
     width: 100%;
-    max-width: 120px;
+    width: 120px;
     height: auto;
     object-fit: cover;
     margin-bottom: 1rem;

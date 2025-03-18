@@ -196,6 +196,13 @@ footer {
     object-fit: contain;
     margin: 0 5px;
 }
+nav a.active {
+    background-color: #4d0b0b;  
+    color: #fff;               
+    padding: 5px 10px;    
+    border-radius: 5px;         
+}
+  
 
 @media screen and (max-width: 679px) {
     footer{

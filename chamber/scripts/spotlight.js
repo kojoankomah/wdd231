@@ -26,7 +26,9 @@ fetch('data/members.json')
           <p>${member.info}</p>
         </div>
         <div class="business-card-img">
-          <img src="${member.image}" alt="${member.name} logo" loading="lazy">
+          <div>
+            <img src="${member.image}" alt="${member.name} logo" loading="lazy">
+          </div>
           <div>
             <p>Phone: ${member.phone}</p>
             <p>Address: ${member.address}</p>

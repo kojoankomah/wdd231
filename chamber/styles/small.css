@@ -259,11 +259,6 @@ nav a.active {
     padding: 5px;
 }
 
-.header-tag{
-    border-bottom: 2px solid rgb(156, 152, 152);
-    text-align: center;
-}
-
 .business-card-img{
     display: flex;
     padding: 8px;
@@ -335,6 +330,7 @@ nav a.active {
     color: blue;
   }
   
+  
 @media screen and (max-width: 679px) {
     footer{
         font-size: 12px;
@@ -359,5 +355,8 @@ nav a.active {
     .home-main, header, body, footer{
         min-width: 500px;
     }
-
+    .header-tag{
+        border-bottom: 2px solid rgb(156, 152, 152);
+        text-align: center;
+    }
 }

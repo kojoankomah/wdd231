@@ -65,6 +65,8 @@
     .home-main {
         display: grid;
         grid-template-rows: repeat(auto-fit, minmax(200px, auto));
+        width: 90%;
+        margin: 0 auto;
         /* gap: 10px */
     }
 
@@ -96,10 +98,20 @@
     .business-card{
         border: 2px solid pink;
         display: grid;
-        grid-template-columns: 3fr 1fr 2fr;
+        grid-template-rows: 0.5fr 1.5fr;
+    }
+    
+    .member-card {
+        background-color: #fff;
+        padding: 1rem;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        text-align-last: center;
+        text-align: center;
     }
     .header-tag{
-        grid-column: span;
+        text-align: center;
+        padding: 0;
         margin-bottom: 1rem;  
         border-bottom: 2px solid rgb(197, 191, 191);
     }

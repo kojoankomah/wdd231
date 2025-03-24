@@ -62,30 +62,38 @@ function getMembershipLevel(level) {
 }
 
 // Toggle View
-gridBtn.addEventListener('click', () => {
-  membersContainer.classList.add('grid-view');
-  membersContainer.classList.remove('list-view');
-});
+if (gridBtn && membersContainer) {
+  gridBtn.addEventListener('click', () => {
+    membersContainer.classList.add('grid-view');
+    membersContainer.classList.remove('list-view');
+  });
 
-listBtn.addEventListener('click', () => {
+  listBtn.addEventListener('click', () => {
   membersContainer.classList.add('list-view');
   membersContainer.classList.remove('grid-view');
 });
 
-// Load members
-getMembers();
 
-gridBtn.addEventListener('click', () => {
-    membersContainer.classList.add('grid-view');
-    membersContainer.classList.remove('list-view');
-    gridBtn.classList.add('active');
-    listBtn.classList.remove('active');
-  });
-  
-  listBtn.addEventListener('click', () => {
-    membersContainer.classList.add('list-view');
-    membersContainer.classList.remove('grid-view');
-    listBtn.classList.add('active');
-    gridBtn.classList.remove('active');
-  });
+
+  // Load members
+  getMembers();
+
+  gridBtn.addEventListener('click', () => {
+      membersContainer.classList.add('grid-view');
+      membersContainer.classList.remove('list-view');
+      gridBtn.classList.add('active');
+      listBtn.classList.remove('active');
+    });
+    
+    listBtn.addEventListener('click', () => {
+      membersContainer.classList.add('list-view');
+      membersContainer.classList.remove('grid-view');
+      listBtn.classList.add('active');
+      gridBtn.classList.remove('active');
+    });
+}
+
+
+
+
   

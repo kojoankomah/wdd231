@@ -1,9 +1,36 @@
 {
   "members": [
     {
+      "name": "Ridge Royal Hotel",
+      "address": "1st Ridge, Cape Coast, Central Region, Ghana",
+      "phone": "(+233) 33-333-4443",
+      "website": "https://ridgeroyal.com",
+      "image": "images/ridge-royal.webp",
+      "membership": 3,
+      "info": "Luxury hotel offering comfort and modern amenities."
+    },
+    {
+      "name": "Elmina Beach Resort",
+      "address": "1 JJ Rawlings Street, Elmina, Central Region, Ghana",
+      "phone": "(+233) 21-234-5671",
+      "website": "https://elminabeach.com",
+      "image": "images/elmina-beach.jpg",
+      "membership": 3,
+      "info": "Beachfront resort with ocean views and relaxation"
+    },
+    {
+      "name": "Kakum National Park",
+      "address": "R82M+CPW, Abrafo, Central Region, Ghana",
+      "phone": "(+233) 45-678-9021",
+      "website": "https://kakumnationalpark.com",
+      "image": "images/kamkum.jpg",
+      "membership": 3,
+      "info": "Rainforest park known for its canopy walkway."
+    },
+    {
       "name": "Cape Coast Tech Hub",
       "address": "Plot 12, Tech Park, Cape Coast",
-      "phone": "(+233) 245-678-901",
+      "phone": "(+233) 233-638-901",
       "website": "https://capecoasttechhub.com",
       "image": "images/astute.jpg",
       "membership": 3,

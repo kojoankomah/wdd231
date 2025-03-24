@@ -14,7 +14,7 @@
       "address": "1 JJ Rawlings Street, Elmina, Central Region, Ghana",
       "phone": "(+233) 21-234-5671",
       "website": "https://elminabeach.com",
-      "image": "images/elmina-beach.jpg",
+      "image": "images/elmina-beach.webp",
       "membership": 3,
       "info": "Beachfront resort with ocean views and relaxation"
     },
@@ -23,7 +23,7 @@
       "address": "R82M+CPW, Abrafo, Central Region, Ghana",
       "phone": "(+233) 45-678-9021",
       "website": "https://kakumnationalpark.com",
-      "image": "images/kamkum.jpg",
+      "image": "images/kamkum.webp",
       "membership": 3,
       "info": "Rainforest park known for its canopy walkway."
     },

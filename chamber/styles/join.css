@@ -67,6 +67,7 @@ input[type="submit"] , .thank-you a
     transition: background 0.3s;
 }
 
+
 input[type="submit"]:hover {
     background: #005bb5;
 }
@@ -194,4 +195,3 @@ dialog button:hover {
 
     }
 }
-

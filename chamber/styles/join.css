@@ -55,8 +55,7 @@ textarea {
     resize: none;
 }
 
-input[type="submit"] , .thank-you a
-{
+input[type="submit"], .thank-you a{
     background: #0073e6;
     color: white;
     font-weight: bold;
@@ -71,9 +70,12 @@ input[type="submit"] , .thank-you a
 input[type="submit"]:hover {
     background: #005bb5;
 }
-
+.thank-you a{
+    background: #033a70;
+    text-decoration: none;
+}
 .thank-you a:hover {
-    background: #005bb5;
+    background: #00b59d;
 }
 
 

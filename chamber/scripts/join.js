@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 "Promotional Support: ❌",
                 "Exclusive Event Invitations: ❌",
                 "Annual Subscription Fee: ❌" 
-            ]
+            ]4
         },
         "bronze": {
             title: "Bronze Membership Level",

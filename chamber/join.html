@@ -80,6 +80,7 @@
                     <label>
                         Membership Level:
                         <select name="membership-level" required>
+                            <option value="" disabled selected>Select a membership level</option>
                             <option value="np">Non-Profit (Free)</option>
                             <option value="bronze">Bronze Membership</option>
                             <option value="silver">Silver Membership</option>
@@ -92,7 +93,7 @@
                         <textarea name="description" title="Describe your business or organization"></textarea>
                     </label>
 
-                    <input type="hidden" id="timestamp"name="timestamp" value="">
+                    <input type="hidden" id="timestamp" name="timestamp" value="">
 
                     <input type="submit" value="Apply for Membership">                    
                 </fieldset>

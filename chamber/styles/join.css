@@ -169,7 +169,7 @@ dialog button:hover {
 
 
 /* Responsive for small screens (≤ 680px): Cards below the form */
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 320px) {
     .membership-cards,.form-container {
         grid-template-columns: 1fr;
     }

@@ -1,6 +1,4 @@
-
 // -- Discover Script --
-
 
 // PHASE 1: Display Places from JSON
 const placesContainer = document.getElementById('places-container');
@@ -24,6 +22,8 @@ fetch('data/places.json')
       const img = document.createElement('img');
       img.src = place.image;
       img.alt = `Image of ${place.name}`;
+      img.width = 400; // Set fixed width
+      img.height = 300; // Set fixed height
       figure.appendChild(img);
 
       // Address
@@ -52,8 +52,6 @@ fetch('data/places.json')
   .catch((error) => {
     console.error('Error loading places.json:', error);
   });
-
-
 
 // PHASE 2: Last Visit Tracker with localStorage
 const visitMessageContainer = document.getElementById('visit-message');

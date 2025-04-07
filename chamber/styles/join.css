@@ -302,8 +302,8 @@ dialog button:hover {
     box-shadow: 0 0 7px grey;
     display: flex;
   }
-  
+
+
   .place-card button:hover {
     background-color: #07b13f;
   }
-  

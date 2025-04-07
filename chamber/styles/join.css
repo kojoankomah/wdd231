@@ -197,3 +197,113 @@ dialog button:hover {
 
     }
 }
+
+/* CSS for Discover Page */
+
+/* Base Styles for Grid Layout */
+#places-container {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr); /* Default to 1 column */
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  /* Small Screens: 1 Column (320px to 640px) */
+  @media (min-width: 320px) and (max-width: 640px) {
+    #places-container {
+      grid-template-columns: repeat(1, 1fr); /* 1 column */
+    }
+  }
+  
+  /* Medium Screens: 2 Columns (641px to 1024px) */
+  @media (min-width: 641px) and (max-width: 1024px) {
+    #places-container {
+      grid-template-columns: repeat(2, 1fr); /* 2 columns */
+    }
+  }
+  
+  /* Large Screens: 4 Columns (1025px and above) */
+  @media (min-width: 1025px) {
+    #places-container {
+      grid-template-columns: repeat(4, 1fr); /* 4 columns */
+    }
+  }
+
+  @media (min-width: 641px) {
+    .place-card img {
+      transition: transform 0.5s ease, filter 0.5s ease;
+    }
+  
+    .place-card img:hover {
+      transform: scale(1.1);
+      filter: brightness(1.1);
+    }
+  }
+  
+  
+  /* Style for Each Place Card */
+  .place-card {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0 0 7px grey;
+
+  }
+  
+  /* Title Styles */
+  .place-card h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  /* Image Styles */
+  .place-card figure {
+    margin: 0;
+  }
+  
+  .place-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 0 7px grey;
+
+  }
+  
+  /* Address Styling */
+  .place-card address {
+    font-style: normal;
+    margin: 10px 0;
+    font-size: 1rem;
+  }
+  
+  /* Description Styling */
+  .place-card p {
+    font-size: 1rem;
+    margin: 10px 0;
+    line-height: 1.4;
+  }
+  
+  /* Button Styling */
+  .place-card button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    background: #043d77;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    box-shadow: 0 0 7px grey;
+    display: flex;
+  }
+  
+  .place-card button:hover {
+    background-color: #07b13f;
+  }
+  

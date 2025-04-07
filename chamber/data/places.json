@@ -1,0 +1,52 @@
+{
+    "places":  [
+        {
+        "name": "Cape Coast Castle",
+        "address": "Cape Coast Castle, Cape Coast, Ghana",
+        "description": "A historical fortress used in the trans-Atlantic slave trade, now a museum and heritage site.",
+        "image": "images/cape-coast-castle.webp"
+        },
+        {
+        "name": "Kakum National Park",
+        "address": "Kakum National Park, R82, Ghana",
+        "description": "A popular rainforest reserve known for its canopy walkway and diverse wildlife.",
+        "image": "images/kakum-park.webp"
+        },
+        {
+        "name": "Elmina Castle",
+        "address": "Elmina Castle, Elmina, Ghana",
+        "description": "Another major castle used during the slave trade, offering tours and rich history.",
+        "image": "images/elmina-castle.webp"
+        },
+        {
+        "name": "Fort William Lighthouse",
+        "address": "Fort William, Cape Coast, Ghana",
+        "description": "An old British fort turned lighthouse, offering great coastal views.",
+        "image": "images/fort-william.webp"
+        },
+        {
+        "name": "University Garden",
+        "address": "University of Cape Coast, Cape Coast, Ghana",
+        "description": "A peaceful space with rare flora used for research and relaxation.",
+        "image": "images/ucc-garden.webp"
+        },
+        {
+        "name": "Cape Coast Sports Stadium",
+        "address": "Cape Coast Stadium, Victoria Park Rd, Cape Coast, Ghana",
+        "description": "Modern sports complex hosting football matches and community events.",
+        "image": "images/cape-coast-stadium.webp"
+        },
+        {
+        "name": "Ridge Royal Hotel",
+        "address": "1st Ridge, Cape Coast, Central Region, Ghana",
+        "description": "Luxury hotel offering comfort and modern amenities.",
+        "image": "images/ridge-royal.webp"
+        },
+        {
+        "name": "Kotokuraba Market",
+        "address": "Kotokuraba Road, Cape Coast, Ghana",
+        "description": "A bustling market with fresh produce, local food, textiles, and crafts.",
+        "image": "images/kotokuraba.webp"
+        }
+    ]
+}

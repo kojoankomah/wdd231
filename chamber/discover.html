@@ -19,7 +19,6 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
     <script src="scripts/directory.js" defer></script>
-    <script src="scripts/join.js" defer></script>
     <style>
 
     </style>
@@ -37,21 +36,23 @@
             <ul class="nav-links">
                     <li><a href="index.html">Home</a></li>
                     <li><a href="directory.html">Directory</a></li>
-                    <li><a href="join.html" class="active">Join</a></li>
-                    <li><a href="discover.html">Discover</a></li>
+                    <li><a href="join.html">Join</a></li>
+                    <li><a href="discover.html" class="active">Discover</a></li>
                 </ul>
             </nav>
     </header>
     <main>
+        <h1>Discover Page</h1>
+
         <!-- Sidebar for visit message -->
         <aside id="visit-message" class="sidebar">
             <!-- JavaScript will inject visit message here -->
         </aside>
 
         <!-- Container for dynamically generated place cards -->
-        <section id="places-container">
+        <div id="places-container">
             <!-- JavaScript will populate cards from places.json -->
-        </section>
+        </div>
     </main>
     <footer>
         <div class="footer-content">

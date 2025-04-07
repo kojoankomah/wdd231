@@ -200,6 +200,10 @@ dialog button:hover {
 
 /* CSS for Discover Page */
 
+#discover-main{
+    min-height: 100vh;
+    padding: 20px;      
+}
 /* Base Styles for Grid Layout */
 #places-container {
     display: grid;
@@ -242,15 +246,7 @@ dialog button:hover {
   }
   
   /* Ensure image scales correctly inside card */
-  .place-card img {
-    width: 100%;
-    height: auto;
-    display: block;
-    border-radius: 0.5rem; /* Optional: soft corners */
-  }
-  
-  
-  
+ 
   /* Style for Each Place Card */
   .place-card {
     border: 1px solid #ccc;
@@ -262,7 +258,7 @@ dialog button:hover {
     align-items: center;
     text-align: center;
     box-shadow: 0 0 7px grey;
-
+    min-height: 500px;
   }
   
   /* Title Styles */
@@ -281,6 +277,7 @@ dialog button:hover {
     width: 100%;
     height: auto;
     display: block;
+    object-fit: cover;
     border-radius: 8px;
     box-shadow: 0 0 7px grey;
   }

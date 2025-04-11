@@ -1,0 +1,115 @@
+{
+    "locations": [
+      {
+        "name": "The Buka Restaurant",
+        "description": "It is a very popular place in the city and the vibes are just everything. It is very family-friendly and warm with great customer service. Buka serves authentic African dishes.",
+        "location": "Osu, Accra, Greater Accra Region",
+        "openDays": "Mondays - Saturdays",
+        "hours": "12:00 pm to 9:30 pm",
+        "contact": "+233 20 000 1234",
+        "instagram": "https://www.instagram.com/thebukarestaurant/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D#",
+        "image": "images/location1.jpg"
+      },
+      {
+        "name": "Ayewamu by Jane",
+        "description": "Aside from the great food, this restaurant wins my heart just by the way they present their food in a traditional authentic Ghanaian Asanka bowl (earthenware bowl).",
+        "location": "Achimota, Greater Accra Region",
+        "openDays": "Mondays - Sundays",
+        "hours": "11:00 AM - 10:00 PM",
+        "contact": "+233 24 123 3567",
+        "instagram": "https://www.instagram.com/ayewamu__byjane?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+        "image": "images/location2.jpg"
+      },
+      {
+        "name": "Chop Shop",
+        "description": "The restaurant has a cute eating setup with a beautiful interior design and walls decorated with portraits of renowned people from across the world.",
+        "location": "Osu, Greater Accra Region",
+        "openDays": "Everyday",
+        "hours": "9:00 AM - 9:00 PM",
+        "contact": "+233 55 078 9012",
+        "instagram": "https://www.instagram.com/chopshopghana?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+        "image": "images/location3.jpg"
+      },
+      {
+        "name": "Bantama Avenue",
+        "description": "From the food to the service and the traditional stool setting, you get a unique food experience here.",
+        "location": "Jungle Ave, East Legon",
+        "openDays": "Mondays - Saturdays",
+        "hours": "12:00 PM - 6:30 PM",
+        "contact": "+233 55 100 0001",
+        "instagram": "https://www.instagram.com/bantamaavenue?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+        "image": "images/location4.jpg"
+      },
+      {
+        "name": "Azmera Restaurant",
+        "description": "Azmera Restaurant is renowned for its authentic Ghanaian cuisine, offering a delightful and immersive dining experience.",
+        "location": "Sir. Arku Korsah Rd, Roman Ridge- Accra",
+        "openDays": "Mondays - Sundays",
+        "hours": "11:00 AM - 9:00 PM",
+        "contact": "+233 26 802 9966",
+        "instagram": "https://www.instagram.com/azmerarestaurant?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+        "image": "images/location5.jpg"
+      },
+      {
+        "name": "Country Kitchen",
+        "description": "When you walk in, you will notice how the restaurant's decor combines rustic elements with Ghanaian art and artifacts, creating a cozy and homely setting.",
+        "location": "2nd Ringway estate, Osu- Accra",
+        "openDays": "Mondays - Saturdays",
+        "hours": "8:30 AM - 9:00 PM",
+        "contact": "+233 24 419 5764",
+        "instagram": "https://www.instagram.com/countrykitchen_gh?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+        "image": "images/location6.jpg"
+      },
+      {
+        "name": "Mango’s Bar and Grill",
+        "description": "Their fufu and soup is definitely one to try so I will mention it again. They have an outdoor space which is airy and comfortable.",
+        "location": "Nii Sai Rd, East Legon- Accra",
+        "openDays": "Mondays - Sundays",
+        "hours": "10:30 AM - 10:00 pm",
+        "contact": "+233 55 500 8815",
+        "instagram": "https://www.instagram.com/mango_ase?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+        "image": "images/location7.jpg"
+      },
+      {
+        "name": "Baobab Traditional Restaurant",
+        "description": "This is a great spot for local food dining, positioning itself as one of the best spots to eat Fufu. Their Fufu and light soup option is a bestseller.",
+        "location": "Boundary Rd, East Legon- Accra",
+        "openDays": "Mondays - Sundays",
+        "hours": "10:00 AM - 9:00 PM",
+        "contact": "+233 59 980 5869",
+        "instagram": "https://www.instagram.com/baobab_gh/?utm_source=ig_web_button_share_sheet",
+        "image": "images/location8.jpg"
+      },
+      {
+        "name": "Asanka Avenue",
+        "description": "This restaurant offers a simple outdoor dining area and serves some of the best “eto” (this is a plantain dish) you’ll ever eat.",
+        "location": "402 Agbogba, North Legon- Accra",
+        "openDays": "Mondays - Saturdays",
+        "hours": "10:00 AM - 8:00 PM",
+        "contact": "+233 54 492 4700",
+        "instagram": "https://www.instagram.com/asanka_avenue?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+        "image": "images/location9.jpg"
+      },
+      {
+        "name": "Aseda Kitchen",
+        "description": "The food is really great! The food is served in traditional bowls which makes the presentation of the food attractive.",
+        "location": "Sunkwa Rd, Osu- Accra",
+        "openDays": "Mondays - Sundays",
+        "hours": "10:00 AM - 8:00 PM",
+        "contact": "+233 24 432 4150",
+        "instagram": "https://www.instagram.com/asedakitchen.osu?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+        "image": "images/location10.jpg"
+      },
+      {
+        "name": "Chez Amis Bar and Grill",
+        "description": "This restaurant offers a simple outdoor dining area and serves some of the best “eto” (this is a plantain dish) you’ll ever eat.",
+        "location": "40 Boundary Rd, East Legon- Accra",
+        "openDays": "Mondays - Sundays",
+        "hours": "9:30 AM - 12:00 AM",
+        "contact": "+233 24 395 2339",
+        "instagram": "https://www.instagram.com/chez_amis_restaurant?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+        "image": "images/location11.jpg"
+      }
+    ]
+  }
+  

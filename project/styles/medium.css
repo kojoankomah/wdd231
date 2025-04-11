@@ -1,0 +1,133 @@
+/* Medium screen: 641px to 1024px */
+@media (max-width: 1024px) {
+    header {
+        padding: 10px;      
+    }
+
+    .logo {
+        max-width: 80px;     
+    }
+
+    nav a {
+        font-size: 20px;  
+    }
+
+    nav ul {
+        margin: 0;         
+        padding: 0;           
+    }
+
+    nav li {
+        margin-left: 15px;   
+    }
+
+    .hero h1 {
+        font-size: 2rem; /* Adjust heading size */
+    }
+
+    .cta-button {
+        padding: 0.5rem 1.2rem; /* Adjust button padding */
+        font-size: 1.1rem; /* Adjust button font size */
+    }
+
+    .food-card, .tip-card {
+        padding: 1rem;
+        margin: 0 auto;
+    }
+
+    .food-container, .tips-container {
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      }
+
+    .cta-join h2 {
+        font-size: 1.5rem; /* Adjust heading size */
+    }
+    
+      .footer-left, .footer-social, .footer-contact {
+        text-align: center;            /* Left-align the text in each section */
+        margin: 10px 0;              /* Space out sections */
+      }
+    
+      .footer-social ul li {
+        margin: 0 10px;              /* Adjust space for mobile */
+      }
+      .restaurant-card {
+        width: 350px;
+      }
+}
+
+@media (max-width: 640px) {
+    header {
+        flex-direction: row;
+        align-items: flex-start; 
+        padding: 10px;       
+    }
+
+    .logo {
+        max-width: 70px;        
+    }
+
+    .main-nav {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 60px;
+        right: 10px;
+        background-color: #fff;
+        padding: 10px;
+    }
+
+    .main-nav ul {
+        flex-direction: column;
+    }
+
+    .main-nav ul li {
+        margin: 5px 0;
+    }
+
+    .hamburger-menu {
+        display: block;
+    }
+
+    .hero {
+        padding: 1.5rem 0.5rem;
+    }
+
+    .hero h1 {
+        font-size: 1.5rem; /* Adjust heading size */
+    }
+
+    .cta-button {
+        padding: 0.5rem 1.2rem;
+        font-size: 1rem; /* Adjust button font size */
+    }
+
+    .food-grid {
+        display: grid;
+        gap: 1rem;
+        grid-template-columns: 1fr; /* Single column for small screens */
+    }
+
+    .cta-join h2 {
+        font-size: 1.4rem;
+    }
+
+    .cta-join p {
+        font-size: 1rem; /* Adjust text size */
+    }
+    .footer-content {
+        flex-direction: column;      /* Stack sections vertically on smaller screens */
+        align-items: center;     /* Align items to the left */
+      }
+    .footer-left p, .footer-contact p {
+        font-size: 12px;             /* Reduce font size on small screens */
+      }
+    
+      .footer-social ul li a img {
+        width: 20px;                 /* Smaller icons for mobile */
+        height: 20px;
+      }
+      .food-container, .tips-container {
+        grid-template-columns: 1fr;
+      }
+}

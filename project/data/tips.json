@@ -1,0 +1,28 @@
+{
+    "tips":[
+    {
+        "name": "Jollof Rice",
+        "image": "images/jollof-tip.jpg",
+        "bio": "While Jollof rice is a meal prepared and enjoyed across the West African coast, the average Ghanaian believes the country holds the bragging rights to the most delicious variety. At its most basic form, Jollof is a pot of rice prepared with tomato sauce and served with meat or fish.",
+        "howToEnjoy": "Many Ghanaians deem Jollof rice as appropriate for dinner. However, the meal is also a favorite for festive occasions such as birthday parties, house-warming ceremonies, engagements, and weddings. If you do find yourself served with the delightful dish, do well to come with a load of appetite. Think you can prepare Jollof rice, the Ghana way? Then try out your culinary skills with this recipe."
+    },
+    {
+        "name": "Waakye",
+        "image": "images/waakye-tip.jpg",
+        "bio": "This dish gives Jollof rice a run for its money in the heart of many Ghanaians. Waakye originated from Northern Ghana and the region claims ownership of the original recipe. However, this meal is now a staple across the length and breadth of the country.",
+        "howToEnjoy": "As a heavy meal, Waakye is served in the afternoon for lunch. A good tomato-based stew compliments eating a plate of Waakye. This stew often brims with assorted steak including goat/cow meat, tripe, cow foot as well as Wele (cowhide). Note that Waakye enjoys wider appeal as a street food."
+    },
+    {
+        "name": "Banku and Tilapia",
+        "image": "images/banku-tip.jpg",
+        "bio": "If there is a meal combination made in Heaven but originating from Ghana, it is Banku and Tilapia. This dish ticks many things off your delightful food list: it is tasty, nutritious and it has the potential to light up any event or ceremony.",
+        "howToEnjoy": "This is one meal that goes best with your hands. All you have to do is cut manageable chunks of the banku and tilapia fish and chew together. Don’t forget to dip in your stew or sauce."
+    },
+    {
+        "name": "Etor",
+        "image": "images/etor-tip.jpg",
+        "bio": "So you have a sweet tooth and you wonder what Ghana has in store for your cravings? Cheer up and look no further than the popular dish called Etor. Etor comprises plantain and/or with yam boiled and mashed and mixed with palm oil.",
+        "howToEnjoy": "In Ghana, people view sweet foods as snacks. So you may be served Etor as an appetizer, while you wait for the main course. Again, enjoy eating this with your hands."
+    }
+]
+}    

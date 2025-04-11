@@ -1,0 +1,134 @@
+{
+    "food" : [
+        {
+        "name": "3to",
+        "description": "A mashed yam or plantain dish mixed with palm oil and spiced with onions and pepper, often topped with boiled eggs.",
+        "image": "images/3to.jpg"
+        },
+        {
+        "name": "Agbeli Kaklo",
+        "description": "Crispy deep-fried balls made from grated cassava, commonly served with coconut on the side.",
+        "image": "images/agbeli-kaklo.jpg"
+        },
+        {
+        "name": "Angwamo",
+        "description": "Also called 'oil rice', this dish is made with rice cooked in oil and often served with fried eggs, sardines, or sausage.",
+        "image": "images/angwamo.jpg"
+        },
+        {
+        "name": "Banku and Tilapia",
+        "description": "Fermented corn and cassava dough balls served with spicy grilled tilapia and hot pepper sauce.",
+        "image": "images/banku-and-tilapia.jpg"
+        },
+        {
+        "name": "Bofrot",
+        "description": "A popular Ghanaian doughnut — sweet, golden-brown, and fluffy on the inside.",
+        "image": "images/bofrot.jpg"
+        },
+        {
+        "name": "Fufu",
+        "description": "A starchy, stretchy dough made from cassava, yam, or plantain, traditionally pounded and served with soups.",
+        "image": "images/fufu.jpg"
+        },
+        {
+        "name": "Gari Foto",
+        "description": "Made with soaked gari mixed into a tomato-based sauce with vegetables, often served with eggs or meat.",
+        "image": "images/gari-foto.jpg"
+        },
+        {
+        "name": "Groundnut Soup",
+        "description": "Rich, creamy peanut soup usually paired with rice balls, fufu, or banku.",
+        "image": "images/groundnut-soup.jpg"
+        },
+        {
+        "name": "Hausa Koko",
+        "description": "A spicy millet porridge typically eaten at breakfast with koose or bread.",
+        "image": "images/hausa-koko.jpg"
+        },
+        {
+        "name": "Jollof",
+        "description": "A beloved one-pot rice dish cooked in a tomato stew with spices, often served with chicken, beef, or fish.",
+        "image": "images/jollof.jpg"
+        },
+        {
+        "name": "Kelewele",
+        "description": "Spiced and fried ripe plantains with a kick of ginger, cloves, and pepper.",
+        "image": "images/kelewele.jpg"
+        },
+        {
+        "name": "Kenkey",
+        "description": "Fermented corn dough wrapped in leaves and steamed, served with pepper sauce and fried fish.",
+        "image": "images/kenkey.jpg"
+        },
+        {
+        "name": "Koose",
+        "description": "Fried bean cakes seasoned with onion, pepper, and salt — often eaten with porridge.",
+        "image": "images/koose.jpg"
+        },
+        {
+        "name": "Light Soup",
+        "description": "A thin and spicy tomato-based soup usually served with fufu or rice balls.",
+        "image": "images/light-soup.jpg"
+        },
+        {
+        "name": "Meatpie",
+        "description": "Golden pastry pockets filled with seasoned minced meat, onions, and vegetables.",
+        "image": "images/meatpie.jpg"
+        },
+        {
+        "name": "Nkatecake",
+        "description": "A crunchy peanut brittle made by caramelizing roasted peanuts with sugar.",
+        "image": "images/nkatecake.jpg"
+        },
+        {
+        "name": "Okra Stew",
+        "description": "A slimy yet savory stew made with chopped okra, palm oil, meat or fish, and seasonings.",
+        "image": "images/okra-stew.jpg"
+        },
+        {
+        "name": "Red Red",
+        "description": "Fried ripe plantains served with black-eyed beans cooked in red palm oil stew.",
+        "image": "images/redred.jpg"
+        },
+        {
+        "name": "Shito",
+        "description": "A dark, spicy Ghanaian pepper sauce made with dried fish, shrimp, chili, and oil.",
+        "image": "images/shito.jpg"
+        },        
+        {
+        "name": "Chinchinga",
+        "description": "A popular Ghanaian street food made with skewered beef or chicken, seasoned with savory spices and grilled to smoky perfection.",
+        "image": "images/chinchinga.jpg"
+        },
+        {
+        "name": "Ampesi",
+        "description": "A traditional boiled dish made from yam, plantain, or cassava, typically served with palava sauce, kontomire stew, or garden egg stew.",
+        "image": "images/ampesi.jpg"
+        },
+        {
+        "name": "Planitain chips",
+        "description": "Thinly sliced ripe or unripe plantains deep-fried until golden and crispy—sweet or salty, always satisfying.",
+        "image": "images/plantain-chip.jpg"
+        },
+        {
+        "name": "Tuo Zafi",
+        "description": "A northern Ghana staple made from maize or millet, often served with green leafy soup and meat.",
+        "image": "images/tuozaafi.jpg"
+        },
+        {
+        "name": "Waakye",
+        "description": "A rice and beans combo cooked with millet leaves for color, often served with eggs, spaghetti, meat, and shito.",
+        "image": "images/waakye.jpg"
+        },
+        {
+        "name": "Yam and Palava Sauce",
+        "description": "Boiled yam slices served with a spinach-based stew made with egusi (melon seeds) and fish or meat.",
+        "image": "images/yam-and-palava-sauce.jpg"
+        },
+        {
+        "name": "Yamballs",
+        "description": "Mashed yam mixed with spices and fish, rolled into balls and deep-fried.",
+        "image": "images/yamballs.jpg"
+        }
+    ]
+}
